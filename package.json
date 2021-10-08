@@ -4,6 +4,7 @@
   "author": "Dan Revah",
   "description": "Useful angular pipes",
   "license": "MIT",
+  "main": "dist/ngx-pipes.d.ts",
   "scripts": {
     "start": "ng serve",
     "test": "ng test",
