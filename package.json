@@ -13,7 +13,7 @@
     "lint": "ng lint --type-check",
     "release": "standard-version",
     "deploy": "npm run build:lib && npm publish --access=public dist",
-    "prepare": "npm run build",
+    "prepare": "npm run build:lib",
     "precommit": "lint-staged",
     "prettier:write": "prettier --write './src/**/*.ts'",
     "prettier:check": "prettier -l './src/**/*.ts'"
