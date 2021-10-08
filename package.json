@@ -5,6 +5,9 @@
   "description": "Useful angular pipes",
   "license": "MIT",
   "main": "dist/ngx-pipes.d.ts",
+  "files": [
+    "./dist/**"
+  ],
   "scripts": {
     "start": "ng serve",
     "test": "ng test",
