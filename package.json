@@ -4,7 +4,6 @@
   "author": "Dan Revah",
   "description": "Useful angular pipes",
   "license": "MIT",
-  "main": "dist/ngx-pipes.d.ts",
   "files": [
     "./dist/**"
   ],
